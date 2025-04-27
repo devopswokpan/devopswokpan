@@ -1,6 +1,6 @@
 # 🥘 DevOps Wokpan
 
-> *"Let them cook — the open way."*
+> *"Let we cook — to the open way."*
 
 ---
 
